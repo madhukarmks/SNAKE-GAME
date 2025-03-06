@@ -136,4 +136,4 @@ This SFML-based Snake Game is a well-structured implementation of a classic game
 
 **SNAKE**
 
-![Image](https://github.com/user-attachments/assets/1d14efb6-e11b-400b-8b7f-4d38889fe8bb)
+
