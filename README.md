@@ -134,3 +134,6 @@ Obstacle Mode – Introduce obstacles for an extra challenge.
 
 This SFML-based Snake Game is a well-structured implementation of a classic game using C++ and object-oriented programming. It efficiently handles game logic, rendering, and user interaction, making it a great project for learning game development with SFML.
 
+**SNAKE**
+
+![Image](https://github.com/user-attachments/assets/1d14efb6-e11b-400b-8b7f-4d38889fe8bb)
